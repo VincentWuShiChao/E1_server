@@ -1,0 +1,5 @@
+{
+    "appenders":{"cheese":{"type":"file","filename":"../logs/cheese.log"}},
+    "categories":{"default":{"appenders":["cheese"],"level":"ALL"},
+        "cheese1":{"appenders":["cheese"],"level":"error"}}
+}

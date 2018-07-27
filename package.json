@@ -1,0 +1,22 @@
+{
+  "name": "e1_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "lib-qqwry": "^1.0.2",
+    "mysql": "^2.15.0",
+    "querystring": "^0.2.0",
+    "ws": "^5.1.1"
+  },
+  "dependencies": {
+    "log4js": "^2.5.3"
+  }
+}
